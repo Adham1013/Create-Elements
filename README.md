@@ -27,10 +27,6 @@ You can customize the number of h2 elements and the image by modifying the `crea
 
 If you find any issues or want to enhance the functionality, feel free to open an issue or submit a pull request on the repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, please feel free to contact the project maintainer:
