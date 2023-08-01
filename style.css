@@ -1,0 +1,38 @@
+.container {
+  margin: 3px auto;
+}
+
+#yellow,
+#red,
+#dark,
+#black {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  gap: 20px;
+  flex-wrap: wrap;
+  box-shadow: 0 2rem 5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+#yellow {
+  color: #ffe227;
+}
+
+#red {
+  color: #eb596e;
+}
+
+#dark {
+  color: #4d375d;
+}
+
+#black {
+  color: #121013;
+}
+
+img {
+  width: 100%;
+  height: 720px;
+  object-fit:fill;
+}
